@@ -9,5 +9,7 @@ System.out.println(a);
 public static void main(String[] args) {
 	TypesOfVariables t=new TypesOfVariables();
 	System.out.println(t.a);
-}
+	t.add();
+	System.out.println(t);
+	}
 }

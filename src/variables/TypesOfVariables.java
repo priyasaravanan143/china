@@ -11,7 +11,8 @@ public static void main(String[] args) {
 	System.out.println(t.a);
 	System.out.println("data added");
 	System.out.println("data collected");
-
-
+	t.add();
+	System.out.println(t);
+	}
 }
-}
+

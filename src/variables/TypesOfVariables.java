@@ -9,7 +9,10 @@ System.out.println(a);
 public static void main(String[] args) {
 	TypesOfVariables t=new TypesOfVariables();
 	System.out.println(t.a);
+	System.out.println("data added");
+	System.out.println("data collected");
 	t.add();
 	System.out.println(t);
 	}
 }
+
